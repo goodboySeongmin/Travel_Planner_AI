@@ -114,3 +114,5 @@ firebaserc
 .cache/
 .temp/
 .tmp/
+
+.claude/
